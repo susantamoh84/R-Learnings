@@ -1,8 +1,8 @@
 # Goals of Supervised Learning
-  -Find a model that best approximates f: ≈ f
-  -can be Logistic Regression, Decision Tree, Neural Network ...
-  -Discard noise as much as possible.
-  -End goal: should acheive a low predictive error on unseen datasets.
+  - Find a model that best approximates f: ≈ f
+  - can be Logistic Regression, Decision Tree, Neural Network ...
+  - Discard noise as much as possible.
+  - End goal: should acheive a low predictive error on unseen datasets.
 
 
 BootStrapping - random sampling from the data
