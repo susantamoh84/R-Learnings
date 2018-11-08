@@ -6,3 +6,4 @@
     - Fits quickly
     - Ignored noisy variables
     - Provides interpretable coefficients
+  - Its simple, fast & easy to interpret.
