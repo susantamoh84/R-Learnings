@@ -36,6 +36,12 @@
   - Solution → Cross-Validation (CV):
       - K-Fold CV,
       - Hold-Out CV.
+  - K fold CV error = mean(all fold errors)
+  - If CV error > training set error - f suffers from high variance
+    - f is said to overfit the training set. To remedy overfitting:
+      - decrease model complexity,
+        - for ex: decrease max depth, increase min samples per leaf, ...
+      - gather more data
 
 
 BootStrapping - random sampling from the data
