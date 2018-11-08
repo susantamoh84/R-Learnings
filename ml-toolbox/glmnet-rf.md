@@ -15,4 +15,4 @@
   - Often ( but not always ) more accurate than glmnet
   - Easier to tun
   - Require little pre-processing
-  
+  - captures threshold effects and variable interactions
