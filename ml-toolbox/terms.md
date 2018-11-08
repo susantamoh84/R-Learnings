@@ -1,4 +1,4 @@
-#Goals of Supervised Learning
+# Goals of Supervised Learning
   -Find a model that best approximates f: ≈ f
   -can be Logistic Regression, Decision Tree, Neural Network ...
   -Discard noise as much as possible.
